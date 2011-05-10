@@ -6,3 +6,6 @@ Date: May 2011
 Zoggles is an Arduino based project to control 2 LEDs
 embedded in some goggles to induce hallucinogenic effects
 for the wearer.
+
+This project was inspired by this project.
+http://wealoneonearth.blogspot.com/2009/09/how-to-build-goggles.html
